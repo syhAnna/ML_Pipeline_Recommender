@@ -9,7 +9,7 @@
 ![image01](https://github.com/syhAnna/Model-Inspection/blob/main/images/01.jpg)
 - Then, click this "Welcome, ...", go to the "Edit Profile" to access the user profile:<br />
 ![image02](https://github.com/syhAnna/Model-Inspection/blob/main/images/02.jpg)
-- Finally, you can see the "API Key" in the "Authentication Settings" part, just copy this API Key to the clipboard then you can use your API Key now:<br />
+- Finally, you can see the "API Key" in the "Authentication Settings" part, copy this API Key to clipboard then you can use your API Key now:<br />
 ![image03](https://github.com/syhAnna/Model-Inspection/blob/main/images/03.jpg)
 
 
