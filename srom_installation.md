@@ -4,7 +4,7 @@
 
 1. Create/Access an API Key for artifactory:
 
-- Go to JFrog Platform with the link https://na.artifactory.swg-devops.com/ .Normally, you would be automatically login with your IBM ID by access this link.
+- Go to JFrog Platform with the link https://na.artifactory.swg-devops.com/ . Normally, you would be automatically login with your IBM ID by access this link.
 - On the right corner of the page is your IBM Email ID:<br />
 ![image01](https://github.com/syhAnna/Model-Inspection/blob/main/images/01.jpg)
 - Then, click this "Welcome, ...", go to the "Edit Profile" to access the user profile:<br />
