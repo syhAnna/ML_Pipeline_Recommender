@@ -78,5 +78,5 @@ All <related_data_files> are uploaded to Box, Link: https://ibm.box.com/s/iosxgr
 * Matrix Factorization: PCA, NMF
 * Similarity measurement:
     * One dataset: cosine similarity, Euclidean distance
-    * Multiple datasets: Canonical Correlation Analysis (CCA)score
-* Data visualization: clustering (tsne, dendrogram), histogram
+    * Multiple datasets: Canonical Correlation Analysis (CCA) score
+* Data visualization: Clustering (TSNE, Dendrogram), Histogram, Linear Regression, Decis
